@@ -50,7 +50,7 @@ function ChatPage() {
     >
       <nav className="navbar navbar-dark bg-dark px-4 shadow">
         <span className="navbar-brand fw-bold">
-          🤖 Notes AI Assistant
+          🤖 Chat - Q
         </span>
 
         <button
