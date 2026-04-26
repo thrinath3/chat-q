@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@google/genai": "^1.50.1",
+    "genai": "^0.0.18"
+  }
+}
